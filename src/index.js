@@ -9,8 +9,8 @@ import "bootstrap/dist/css/bootstrap.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <Header /> */}
-    <Counter />
+    <Header />
+    {/* <Counter /> */}
   </React.StrictMode>,
   document.getElementById("root")
 );
